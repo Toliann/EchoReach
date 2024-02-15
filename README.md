@@ -6,6 +6,8 @@
 # New Moon: EchoReach
 >DESIGNATION: EchoReach
 
+>>RISK LEVEL: B
+
 >POPULATION: Desolate, with occasional sightings of wandering scavengers seeking forgotten treasures.
 
 >CONDITIONS: Harsh and unforgiving, with relentless winds scouring the landscape and temperatures fluctuating wildly between extremes.
