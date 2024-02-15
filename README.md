@@ -18,8 +18,7 @@
 
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/2.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/1.png)
+
 
 ## Special thanks
 
