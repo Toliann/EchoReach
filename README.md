@@ -18,6 +18,8 @@
 
 >POSSIBLE WEATHER: Blistering sandstorms, bone-chilling nights, and the occasional electrical storm crackling across the sky.
 
+>ROUTING COST: 250
+
 
 ## Screenshot
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/EchoReach/main/screenshot/1.png)
