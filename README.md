@@ -1,10 +1,11 @@
-# Tolian Moons
+# Tolian Moons (LLL)
 
 
 1 new game moon 
 
 # New Moon: EchoReach
->DESIGNATION: EchoReach
+
+>DESIGNATION: 33-EchoReach
 
 >RISK LEVEL: B
 
@@ -26,6 +27,9 @@
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/EchoReach/main/screenshot/2.png)
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/EchoReach/main/screenshot/3.png)
 
+#
+> LethalLevelLoader (0.1.5 and higher)
+> LethalExpansion (0.1.2 and lower)
 
 ## Special thanks
 
